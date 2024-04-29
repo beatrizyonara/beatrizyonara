@@ -41,6 +41,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![Lattes](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logoColor=white&link=https://br.linkedin.com/in/beatriz-yonara-rezende-881a65150)](https://br.linkedin.com/in/beatriz-yonara-rezende-881a65150)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logoColor=white&link=mailto:biayonara@gmail.com)](mailto:biayonara@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-blue?style=flat-square&logoColor=white)](http://lattes.cnpq.br/5048017323431478)
+
